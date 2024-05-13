@@ -14,4 +14,4 @@ Make sure that you have perl instaled in your machine. You can get per from here
 
 After you can run the following command in the terminal:
 
-'''perl wordsFreq.pl'''
+```perl wordsFreq.pl```
